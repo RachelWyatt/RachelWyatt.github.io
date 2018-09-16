@@ -1,11 +1,11 @@
 # Site settings
 author: Rachel Wyatt
-title: 
+title: Creative Writer to Coder
 header-img: img/home-bg.png
 email: rw126@evansville.edu
 copyright_name: Rachel Wyatt
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Rachel's Coding Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RachelWyatt
