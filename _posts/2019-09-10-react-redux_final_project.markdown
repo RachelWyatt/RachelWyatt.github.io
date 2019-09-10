@@ -11,5 +11,5 @@ The biggest challenge for me was getting the React-Redux state flow nailed into 
 For me, looking at visual representations of the React-Redux flow, like the one below, was the most helpful.
 [React Redux State Flow](https://res.cloudinary.com/practicaldev/image/fetch/s--VtRaY29J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fewc8ez6r2e2agah717y.png)
 
- I also found the console logging exercise in this instructional video to be really helpful. Console logging feels very familiar to me by this point, so I think it helped solidify these ideas, and seeing the step-by-step helped me nail down what was really happening. 
+ I also found the console logging exercise in [this instructional video ](http://https://instruction.learn.co/student/video_lectures#/301)to be really helpful. Console logging feels very familiar to me by this point, so I think it helped solidify these ideas, and seeing the step-by-step helped me nail down what was really happening. 
 
